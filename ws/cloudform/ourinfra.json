@@ -1,7 +1,7 @@
 [
 {
     "ParameterKey": "EnvironmentName",
-    "ParameterValue": "Uda project"   
+    "ParameterValue": "Uda-project"   
 },
 {
     "ParameterKey": "VpcCIDR",
